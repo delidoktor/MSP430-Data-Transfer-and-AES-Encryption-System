@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 //defines for server
-#define ssid "eko"                             //server informations
-#define psw  "ekosyf66"
+#define ssid "EEE"                             //server informations
+#define psw  "ele417ele"
 
 //defines for ports
 #define setRS P2OUT   |= BIT4
