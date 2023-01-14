@@ -11,7 +11,7 @@ unsigned const char key[]   = {'E', 'M', 'R','E', 'S', 'E','R', 'I',
 /**********VARIABLES******************/
 
 //NETWORK INFORMATION
-#define ssid    "EEE"
+#define ssid    "eee"
 #define psw    "ele417ele"
 
 
