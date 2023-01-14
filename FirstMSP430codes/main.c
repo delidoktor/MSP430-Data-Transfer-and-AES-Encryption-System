@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include "aes.h"
 
-#define ssid "eee"  //ssid used for ESP
+#define ssid "EEE"  //ssid used for ESP
 #define psw "ele417ele" //pw used for ESP
 
 /******* VERIABLE INITIALIZATIONS*******/
