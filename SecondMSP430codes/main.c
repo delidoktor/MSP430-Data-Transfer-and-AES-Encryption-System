@@ -11,8 +11,8 @@ unsigned const char key[]   = {'E', 'M', 'R','E', 'S', 'E','R', 'I',
 /**********VARIABLES******************/
 
 //NETWORK INFORMATION
-#define ssid    "eee"
-#define psw    "ele419ele"
+#define ssid    "EEE"
+#define psw    "ele417ele"
 
 
 unsigned char stringTx[50]; //TRANSMIT  DATA
