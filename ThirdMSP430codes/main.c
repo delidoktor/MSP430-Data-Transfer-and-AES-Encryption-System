@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 //defines for server
-#define ssid "EEE"                             //server informations
+#define ssid "eee"                             //server informations
 #define psw  "ele417ele"
 
 //defines for ports
