@@ -10,9 +10,10 @@ This project demonstrates a three-stage data processing pipeline using MSP430 mi
 
 ## Components Used:
 - 3x MSP430 microcontrollers
-- ESP8266 WIFI module
+- 3x ESP8266 WIFI module
 - AES Encryption algorithm
 - LCD Display
+- DHT11 Temperature and Humidity Sensor
 
 
 
