@@ -1,4 +1,3 @@
-# MSP430-Secure-Embedded-Communication
 
 # MSP430 Data Transfer and AES Encryption System
 
